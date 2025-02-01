@@ -1,0 +1,5 @@
+package com.kafka.subscriber.controller;
+
+public class SubscriberController {
+
+}

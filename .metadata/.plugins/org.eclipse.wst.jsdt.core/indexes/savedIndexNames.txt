@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\DEVELOPMENT\Workspace_2025\Kafka\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3140421679.index
+3117497181.index
+818681209.index
+977522520.index
+1543536488.index
+90598281.index
+1470745872.index
